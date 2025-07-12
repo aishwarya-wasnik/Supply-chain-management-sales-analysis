@@ -4,46 +4,15 @@ Supply chain analytics is a valuable part of data-driven decision-making in vari
 
 # Key Insights & Visuals
 
-1. Inventory Turnover & Stock Optimization
-Visuals Used: Line chart, bar graph, gauge card
+Inventory: Identified overstocked SKUs and frequent stock-outs; recommended ABC analysis and better demand planning.
 
-Insights:
+Procurement: Vendor X offers best cost-efficiency; lead times vary—need for vendor review.
 
-High inventory turnover rate observed in Q2, indicating efficient inventory management.
-Overstock identified in certain SKUs—recommend periodic ABC analysis.
-Stock-outs occurred frequently for fast-moving products—action required in demand forecasting.
+Logistics: 87% on-time delivery; delays mostly in West and South zones; freight cost optimization needed.
 
-2. Procurement Cost & Vendor Performance
-Visuals Used: Heatmap, stacked column chart, KPI tiles
+Fulfillment: Reduced order cycle time by 15%; rising backorders signal need for improved forecasting.
 
-Insights:
+Interactivity: Filters and drill-downs enable region-, SKU-, and vendor-specific analysis.
 
-Vendor X consistently provides materials at lower cost and with high on-time delivery performance.
-Procurement costs spiked in March due to bulk orders from underperforming vendors.
-Supplier lead time averages 12 days; consider reevaluating vendor contracts for critical items.
-
-3.Logistics & Delivery Efficiency
-Visuals Used: Map visual, area chart, donut chart
-
-Insights:
-
-87% on-time delivery rate achieved—target of 95% yet to be met.
-Delays most common in West and South zones—potential route or courier partner issues.
-Freight costs remain highest for bulky product categories—consider mode-of-transport optimization.
-Order Fulfillment & Customer Service Metrics
-Visuals Used: KPI card, line chart, matrix visual
-
-Insights:
-
-Average order cycle time reduced by 15% month-over-month.
-Backorder rate increasing for seasonal items—demand forecasting needs refinement.
-Customer satisfaction closely correlates with fulfillment lag—action needed on delayed orders.
-
-5.Interactive Filters & Drill-Downs
-Visuals Used: Slicers, drill-through pages, filter pane
-
-Functionality:
-
-Enables analysis by product category, supplier, region, or time period.
-Drill-downs into supplier-level or SKU-level performance for targeted action.
-Dynamic filters allow real-time scenario analysis (e.g., simulate inventory reduction).
+# Project Goal
+To provide a dynamic Power BI dashboard that delivers real-time insights into supply chain operations—helping stakeholders reduce costs, improve vendor performance, optimize inventory, and enhance overall efficiency.
